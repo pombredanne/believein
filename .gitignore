@@ -1,5 +1,6 @@
 *.py[cod]
-
+*.sqlite3
+config.py # secrets!!!
 # C extensions
 *.so
 
